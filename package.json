@@ -1,13 +1,20 @@
 {
   "name": "build-first-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple Express.js API built for the FlyRank Backend AI Engineering Internship assignment.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "nodejs",
+    "express",
+    "api",
+    "backend",
+    "flyrank"
+  ],
+  "author": "Md Badhan Islam Shanto",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
